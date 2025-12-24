@@ -1,215 +1,130 @@
+# WinArea (WINA)
+### Decentralized Prediction Market Token on Solana
 
-# **WinArea (WINA) - The Future of Decentralized Prediction Markets**
+**WinArea (WINA)** is a utility and governance token powering the **WinArea decentralized prediction market ecosystem** on the **Solana blockchain**.
 
-**WinArea (WINA)** is a **decentralized prediction market token** built on the **Solana blockchain**. **WinArea** empowers users to **predict**, **stake**, and **earn** rewards on a **secure**, **transparent**, and **exciting** platform for **sports betting**, **crypto predictions**, and **global event forecasting**.
+This repository **does not contain executable code**.  
+It exists solely as a **public disclosure and transparency document** describing the **WINA token**, its **utility**, **distribution**, **vesting**, and **security practices**.
 
-WinArea leverages **trusted oracles**, **smart contracts**, and **blockchain technology** to create a fair, decentralized ecosystem where everyone can participate in the prediction market. Join us and be part of the revolution!
-
-[Visit our website](https://WinArea.is)
-
----
-
-## **Table of Contents**
-
-- [🚀 About WinArea](#about-WinArea)
-- [🔥 Key Features](#key-features)
-- [💡 Tokenomics](#tokenomics)
-- [🔗 Oracle Integration & Smart Contracts](#oracle-integration-smart-contracts)
-- [⚙️ Installation Guide](#installation-guide)
-- [💪 Usage & Staking](#usage-staking)
-- [🎉 How to Contribute](#how-to-contribute)
-- [📈 Roadmap](#roadmap)
-- [📜 License](#license)
+🌐 **Official Website:** https://winarea.is
 
 ---
 
-## 🚀 About WinArea
+## 📌 Token Overview
 
-**WinArea (WINA)** is a **decentralized utility token** powering the **WinArea prediction market platform**, which allows users to **bet on sports**, **forecast crypto prices**, and predict **global events**. **WinArea** enables **staking**, **participating in governance**, and earning **rewards** for **market prediction** accuracy. 
-
-Built on **Solana**, **WinArea** offers fast, secure, and low-cost transactions, ensuring that users can interact with the platform efficiently. With **trusted oracles** and **smart contracts**, **WinArea** guarantees **accuracy** and **fairness** in all predictions.
-
----
-
-## 🔥 Key Features
-
-### **🌍 Prediction Markets**  
-- **Sports Events**: Predict outcomes of **football**, **basketball**, **eSports**, and more.
-- **Crypto Predictions**: Forecast the future of **Bitcoin**, **Ethereum**, and other cryptocurrencies.
-- **Global Events**: **WinArea** allows users to predict the outcomes of important **world events**, such as elections or public policy changes.
-
-### **💸 Staking & Governance**
-- **Staking Rewards**: Stake **WINA tokens** to earn **rewards** based on your participation in the prediction markets.
-- **Governance**: **WINA holders** can participate in **platform decisions** by voting on new features, market listings, and more.
-
-### **🔗 Oracle Integration**
-- **Chainlink** and **Switchboard** provide **trusted data feeds** that ensure **accurate** and **tamper-proof predictions** on real-world outcomes.
-
-### **💱 Liquidity Pools**
-- Users can **add liquidity** to **WinArea pools** and earn **transaction fees** while ensuring the platform remains active and efficient.
-
-### **🔒 Security & Fairness**
-- **Solana** blockchain guarantees **high-speed transactions** with low costs.
-- **Oracles** ensure all predictions are based on **verified data**, ensuring **transparency**.
+| Property | Value |
+|---|---|
+| Token Name | WinArea |
+| Symbol | WINA |
+| Blockchain | Solana |
+| Token Standard | SPL |
+| Decimals | 6 |
+| Total Supply | **10,000,000,000 WINA** |
+| Mint Authority | Revoked after deployment |
+| Freeze Authority | Disabled |
+| Vesting Provider | Streamflow |
+| Primary Use | Prediction markets, staking, governance |
 
 ---
 
-# WinArea Tokenomics
+## 🎯 Token Purpose & Utility
 
-- **Token Name:** Win Area
-- **Symbol:** WINA
-- **Decimals:** 6
-- **Total Supply:** 1,000,000,000 WinArea
+WINA is designed as the **core economic layer** of the WinArea platform.
 
-# Token Distribution (FINAL & FIXED) — Solana
+### 🔮 Prediction Markets
+- Stake WINA on **sports**, **crypto prices**, and **real-world events**
+- Outcomes resolved via **trusted oracle data**
+- Rewards distributed proportionally to correct predictions
 
-## Allocation Table
+### 🏦 Staking & Incentives
+- Long-term staking to support protocol stability
+- Reward emissions aligned with platform usage
+- Encourages liquidity and honest participation
 
-| Allocation                            | %   | Exact Amount | Wallet (Solana)                                                   | Vesting | TGE Unlock | Cliff | Unlock Duration | Frequency |
-|--------------------------------------|----:|-------------:|-------------------------------------------------------------------|:------:|----------:|------:|----------------:|----------|
-| **Initial Liquidity (DEX)**          | 8%  | 800,000,000  | 3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3                      | ❌ No  | 100%      | 0     | –               | Instant  |
-| **Liquidity Reserve (Price Control)**| 12% | 1,200,000,000| Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Liquidity Management (Ops)**       | 3%  | 300,000,000  | BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP                      | ❌ No  | 100%      | 0     | –               | Unlocked |
-| **Head Manage (FIXED)**              | 1%  | 100,000,000  | 9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Advertisement / Growth**           | 10% | 1,000,000,000| 2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
-| **Core Team – Wallet 1**             | 16% | 1,600,000,000| Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Core Team – Wallet 2**             | 16% | 1,600,000,000| F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Team / Advisors**                  | 11% | 1,100,000,000| waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj                       | ✅ Yes | 0%        | 0     | 24 months       | Quarterly|
-| **Development / R&D**                | 15% | 1,500,000,000| 3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
-| **Service Providers**                | 4%  | 400,000,000  | 4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
-| **Staking & User Rewards**           | 4%  | 400,000,000  | 9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+### 🗳 Governance
+- WINA holders may participate in protocol governance
+- Influence market categories, reward parameters, and upgrades
+
+### 💧 Liquidity
+- Supports decentralized exchange liquidity
+- Improves price discovery and market depth
 
 ---
 
-## Wallet Map (Reference)
+## 📊 Token Distribution & Vesting — Solana
 
-- **Core team wallet 1:** `Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq`
-- **Core team wallet 2:** `F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu`
-- **Advertisement / Growth:** `2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV`
-- **Initial Liquidity:** `3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3`
-- **Head manage:** `9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB`
-- **Liquidity Reserve:** `Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr`
-- **Liquidity Management:** `BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP`
-- **Team / Advisors:** `waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj`
-- **Development / R&D:** `3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE`
-- **Service Provider:** `4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp`
-- **Staking & user rewards:** `9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa`
+All vesting allocations are enforced **on-chain** using **Streamflow**.
+No vested tokens can be manually unlocked or bypass vesting contracts.
 
-## Transparency
+| Allocation | % | Exact Amount (WINA) | Wallet (Solana – Holding / Ops) | Streamflow Wallet (Vesting) | Vesting | TGE Unlock | Cliff | Unlock Duration | Frequency |
+|---|---:|---:|---|---|:---:|---:|---:|---:|---|
+| **Initial Liquidity (DEX)** | 8% | 800,000,000 | 3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3 | — | ❌ No | 100% | 0 | — | Instant |
+| **Liquidity Reserve (Price Control)** | 12% | 1,200,000,000 | Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr | szoqdM4iAqFDgyrVfL1CgLBgw4hbVz65jbtLpcfqk48 | ✅ Yes | 0% | 0 | 24 months | Monthly |
+| **Liquidity Management (Ops)** | 3% | 300,000,000 | BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP | — | ❌ No | 100% | 0 | — | Unlocked |
+| **Head Manage** | 1% | 100,000,000 | 9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB | CrtMxH97ajm876fBD8bv3tat2TQyuMJRoMZsLWJuYNg8 | ✅ Yes | 0% | 0 | 24 months | Monthly |
+| **Advertisement / Growth** | 10% | 1,000,000,000 | 2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV | 6bHP4Xw4CAqarixe5fDC7EwtPvHgcWHSmSDRoYENyT4P | ✅ Yes | 0% | 0 | 12 months | Monthly |
+| **Core Team – Wallet 1** | 16% | 1,600,000,000 | Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq | ALKqPq1MMviy4WXz1mbTLLZYFk7ZCnSD6EzdbNLfogHJ | ✅ Yes | 0% | 0 | 24 months | Monthly |
+| **Core Team – Wallet 2** | 16% | 1,600,000,000 | F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu | 6GcJHNaPdWgiqa1RFPbXZuhb5mBFjmufY3mRfKnp7FDk | ✅ Yes | 0% | 0 | 24 months | Monthly |
+| **Team / Advisors** | 11% | 1,100,000,000 | waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj | CLMHc4rPLwCx16pmfakdr1mJejCyKFQ6R5xqV3MMhMd4 | ✅ Yes | 0% | 0 | 24 months | Quarterly |
+| **Development / R&D** | 15% | 1,500,000,000 | 3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE | 3uwcfMpADQ1psNijKC6MvPVnLnMcaJEJQq2Y7FHfwjE1 | ✅ Yes | 0% | 0 | 12 months | Monthly |
+| **Service Providers** | 4% | 400,000,000 | 4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp | FY3iFRFLvHMiC5PEwWoc87E8MWog3WJkRLTXTRDfLZDP | ✅ Yes | 0% | 0 | 12 months | Monthly |
+| **Staking & User Rewards** | 4% | 400,000,000 | 9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa | Protocol Controlled | ✅ Yes | 0% | 0 | 24 months | Monthly |
 
-All vesting/airdrop schedules are intended to be executed on Streamflow and published with on-chain contract addresses.
-
----
-
-## 🔗 Oracle Integration & Smart Contracts
-
-### **Oracles for Trustworthy Predictions**
-- **Chainlink** and **Switchboard** oracles provide **real-time, secure data feeds** that guarantee the **accuracy** of all predictions.
-- This ensures **fairness** in the system and **transparency** for all users.
-
-### **Smart Contracts for Decentralized Execution**
-- **Solana** smart contracts guarantee that all user transactions are executed **trustlessly** and **transparently**, eliminating the need for intermediaries.
+**Total Allocation:** 100%
 
 ---
 
-## ⚙️ Installation Guide
+## 🔐 Vesting Guarantees (Streamflow)
 
-To interact with **WinArea (WINA)** token and **prediction market smart contracts** on **Solana**, follow the installation guide below.
-
-### **Requirements**:
-- **Solana CLI**: Install [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools).
-- **Node.js**: Ensure **Node.js** and **npm** are installed.
-
-### **Steps**:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/WinArea.git
-   ```
-
-2. **Navigate into the Project Directory**:
-   ```bash
-   cd WinArea
-   ```
-
-3. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-4. **Deploy Smart Contract**:
-   - Use Solana CLI to deploy the contract:
-     ```bash
-     solana deploy --network testnet
-     ```
-
-5. **Track Token Supply and Balance**:
-   - Use Solana's tools to check token balances and supply:
-     ```bash
-     solana balance <your-wallet-address>
-     ```
+- All vested allocations are locked via **Streamflow**
+- No multisig or manual override
+- Linear unlock schedules only
+- Publicly verifiable on-chain
+- Designed to prevent early dumping
 
 ---
 
-## 💪 Usage & Staking
+## 🛡 Audit & Security
 
-### **Staking WINA Tokens**:
-1. **Stake your WINA tokens** to earn rewards and participate in **platform governance**.
-2. You can stake tokens via **Streamflow** or use **Solana CLI** for staking.
+### Token-Level Security
+- Standard SPL token implementation
+- Mint authority revoked after issuance
+- Freeze authority disabled
+- No blacklist or transfer restrictions
 
-### **Prediction Markets**:
-1. Predict **sports outcomes**, **cryptocurrency price movements**, and **global events**.
-2. Place your **WINA tokens** on the predictions and stand a chance to win rewards based on accurate forecasts.
+### Smart Contract Review
+- Prediction market contracts undergo internal security review
+- External audits planned prior to major protocol upgrades
+- Completed audits will be published publicly
 
-### **Liquidity Pools**:
-1. Add liquidity to the **WinArea pools**.
-2. Earn **transaction fees** and participate in the **market-making process**.
-
----
-
-## 🎉 How to Contribute
-
-1. **Fork the repository** and create a **feature branch**:
-   ```bash
-   git checkout -b feature-name
-   ```
-
-2. **Make changes** and commit them:
-   ```bash
-   git commit -m "Description of the changes"
-   ```
-
-3. **Push to your forked repository**:
-   ```bash
-   git push origin feature-name
-   ```
-
-4. **Open a pull request** with a clear explanation of the changes and why they’re necessary.
+### Risk Disclosure
+- WINA is a **utility token**, not an investment contract
+- Prediction markets involve financial risk
+- Users are responsible for understanding platform mechanics
 
 ---
 
-## 📈 Roadmap
+## 🔎 Transparency Commitment
 
-### **🚀 Launched - Now Live!**
-- **WinArea (WINA)** token is **LIVE** and **deployed** on **Solana**.
-- **Prediction markets** for **sports**, **cryptocurrency**, and **global events** are now accessible.
+- No hidden allocations
+- No inflation beyond declared supply
+- Public wallets disclosed
+- On-chain vesting enforced
+- Documentation updated only for clarity
 
-### **Next Steps**:
-- **Q2 2025**:
-  - Expand prediction markets to **more sports**, **global markets**, and **new event categories**.
-  - Integrate with more **oracles** to enhance the diversity and accuracy of prediction data.
-  - Release **Streamflow staking** with additional **reward tiers**.
+This document is intended to provide **full transparency** to the community.
 
-- **Q3 2025**:
-  - Community-driven **features** and **governance** integration.
-  - Focus on **platform scalability** and **user engagement**.
-  - **Launch new prediction tools** and **reward models**.
+---
+
+## 🔗 Official Links
+
+- 🌐 Website: https://winarea.is
+- 🪙 Token Symbol: WINA
+- 🔗 Network: Solana Mainnet
+- ⏳ Vesting: Streamflow
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the **LICENSE** file for more details.
-
----
-
+This documentation is released under the **MIT License**.
