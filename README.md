@@ -57,7 +57,7 @@ Built on **Solana**, **WinArea** offers fast, secure, and low-cost transactions,
 # WinArea Tokenomics
 
 - **Token Name:** Win Area
-- **Symbol:** WinArea
+- **Symbol:** WINA
 - **Decimals:** 6
 - **Total Supply:** 1,000,000,000 WinArea
 
