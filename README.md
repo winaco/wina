@@ -54,22 +54,41 @@ Built on **Solana**, **Wina** offers fast, secure, and low-cost transactions, en
 
 ---
 
-## 💡 Tokenomics
+# WINA Tokenomics
 
-### **Total Supply**:
-- **1,000,000,000 (1B) WNA tokens**
+- **Token Name:** Win Area
+- **Symbol:** WINA
+- **Decimals:** 6
+- **Total Supply:** 1,000,000,000 WINA
 
-### **Token Distribution**:
+## Distribution
 
-| **Category**                  | **Percentage** | **Tokens**        | **Lock-up / Vesting**                          |
-|-------------------------------|----------------|-------------------|----------------------------------------------|
-| **Community Rewards**          | 30%            | 300,000,000 WNA   | No vesting or 1-year lock on large rewards     |
-| **Liquidity Pools (LP)**       | 20%            | 200,000,000 WNA   | Available immediately for LP staking           |
-| **Staking Rewards**            | 15%            | 150,000,000 WNA   | 1-year lock, 6-month cliff for staking rewards |
-| **Team & Advisors**            | 10%            | 100,000,000 WNA   | 24-month vesting, 6-month cliff               |
-| **Treasury / DAO**             | 10%            | 100,000,000 WNA   | Reserved for governance and future liquidity needs |
-| **Early Investors / Backers**  | 10%            | 100,000,000 WNA   | 12-month vesting                              |
-| **Airdrop & Promotions**       | 5%             | 50,000,000 WNA    | Gradual distribution to early users and communities |
+| Category | % | Tokens (WINA) | Lock / Vesting | Cliff | Release | Duration |
+|---|---:|---:|---|---:|---|---:|
+| Community Rewards | 25% | 250,000,000 | Streamflow to Rewards Vault | 0 | Weekly | 24 months |
+| Liquidity Pools (LP) | 20% | 200,000,000 | Used for Meteora DLMM; LP locked | 0 | N/A | 6–12 months |
+| Staking Rewards | 15% | 150,000,000 | Streamflow to Staking Vault | 0 | Weekly | 24 months |
+| Team & Advisors | 10% | 100,000,000 | Streamflow vesting | 6 months | Monthly | 24 months |
+| Treasury / DAO | 10% | 100,000,000 | Streamflow to Treasury wallet | 3 months | Monthly | 24 months |
+| Early Investors / Backers | 10% | 100,000,000 | Streamflow vesting | 3 months | Monthly | 12 months |
+| Airdrop & Promotions | 5% | 50,000,000 | 2% instant + 3% vested | 7 days (vested) | Weekly | 60–90 days |
+| Developer Fund | 5% | 50,000,000 | Streamflow vesting | 0 | Weekly | 24 months |
+| **Total** | **100%** | **1,000,000,000** |  |  |  |  |
+
+## Release Rates (Reference)
+
+Assuming 24 months ≈ 104 weeks:
+
+- Developer Fund: 50,000,000 / 104 ≈ 480,769.23 WINA per week
+- Community Rewards: 250,000,000 / 104 ≈ 2,403,846.15 WINA per week
+- Staking Rewards: 150,000,000 / 104 ≈ 1,442,307.69 WINA per week
+- Team & Advisors: 100,000,000 / 24 = 4,166,666.67 WINA per month (after 6-month cliff)
+- Treasury / DAO: 100,000,000 / 24 = 4,166,666.67 WINA per month (after 3-month cliff)
+- Early Investors: 100,000,000 / 12 = 8,333,333.33 WINA per month (after 3-month cliff)
+
+## Transparency
+
+All vesting/airdrop schedules are intended to be executed on Streamflow and published with on-chain contract addresses.
 
 ---
 
