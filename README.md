@@ -61,30 +61,39 @@ Built on **Solana**, **WinArea** offers fast, secure, and low-cost transactions,
 - **Decimals:** 6
 - **Total Supply:** 1,000,000,000 WinArea
 
-## Distribution
+# Token Distribution (FINAL & FIXED) — Solana
 
-| Category | % | Tokens (WinArea) | Lock / Vesting | Cliff | Release | Duration |
-|---|---:|---:|---|---:|---|---:|
-| Community Rewards | 25% | 250,000,000 | Streamflow to Rewards Vault | 0 | Weekly | 24 months |
-| Liquidity Pools (LP) | 20% | 200,000,000 | Used for Meteora DLMM; LP locked | 0 | N/A | 6–12 months |
-| Staking Rewards | 15% | 150,000,000 | Streamflow to Staking Vault | 0 | Weekly | 24 months |
-| Team & Advisors | 10% | 100,000,000 | Streamflow vesting | 6 months | Monthly | 24 months |
-| Treasury / DAO | 10% | 100,000,000 | Streamflow to Treasury wallet | 3 months | Monthly | 24 months |
-| Early Investors / Backers | 10% | 100,000,000 | Streamflow vesting | 3 months | Monthly | 12 months |
-| Airdrop & Promotions | 5% | 50,000,000 | 2% instant + 3% vested | 7 days (vested) | Weekly | 60–90 days |
-| Developer Fund | 5% | 50,000,000 | Streamflow vesting | 0 | Weekly | 24 months |
-| **Total** | **100%** | **1,000,000,000** |  |  |  |  |
+## Allocation Table
 
-## Release Rates (Reference)
+| Allocation                            | %   | Exact Amount (CW) | Wallet (Solana)                                                   | Vesting | TGE Unlock | Cliff | Unlock Duration | Frequency |
+|--------------------------------------|----:|------------------:|-------------------------------------------------------------------|:------:|----------:|------:|----------------:|----------|
+| **Initial Liquidity (DEX)**          | 8%  | 800,000,000       | 3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3                      | ❌ No  | 100%      | 0     | –               | Instant  |
+| **Liquidity Reserve (Price Control)**| 12% | 1,200,000,000     | Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Liquidity Management (Ops)**       | 3%  | 300,000,000       | BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP                      | ❌ No  | 100%      | 0     | –               | Unlocked |
+| **Head Manage (FIXED)**              | 1%  | 100,000,000       | 9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Advertisement / Growth**           | 10% | 1,000,000,000     | 2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
+| **Core Team – Wallet 1**             | 16% | 1,600,000,000     | Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Core Team – Wallet 2**             | 16% | 1,600,000,000     | F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Team / Advisors**                  | 6%  | 600,000,000       | waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj                       | ✅ Yes | 0%        | 0     | 24 months       | Quarterly|
+| **Development / R&D**                | 10% | 1,000,000,000     | 3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
+| **Service Providers**                | 4%  | 400,000,000       | 4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
+| **Staking & User Rewards**           | 4%  | 400,000,000       | 9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
 
-Assuming 24 months ≈ 104 weeks:
+---
 
-- Developer Fund: 50,000,000 / 104 ≈ 480,769.23 WinArea per week
-- Community Rewards: 250,000,000 / 104 ≈ 2,403,846.15 WinArea per week
-- Staking Rewards: 150,000,000 / 104 ≈ 1,442,307.69 WinArea per week
-- Team & Advisors: 100,000,000 / 24 = 4,166,666.67 WinArea per month (after 6-month cliff)
-- Treasury / DAO: 100,000,000 / 24 = 4,166,666.67 WinArea per month (after 3-month cliff)
-- Early Investors: 100,000,000 / 12 = 8,333,333.33 WinArea per month (after 3-month cliff)
+## Wallet Map (Reference)
+
+- **Core team wallet 1:** `Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq`
+- **Core team wallet 2:** `F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu`
+- **Advertisement / Growth:** `2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV`
+- **Initial Liquidity:** `3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3`
+- **Head manage:** `9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB`
+- **Liquidity Reserve:** `Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr`
+- **Liquidity Management:** `BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP`
+- **Team / Advisors:** `waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj`
+- **Development / R&D:** `3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE`
+- **Service Provider:** `4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp`
+- **Staking & user rewards:** `9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa`
 
 ## Transparency
 
