@@ -1,17 +1,17 @@
 
-# **Wina (WNA) - The Future of Decentralized Prediction Markets**
+# **WinArea (WINA) - The Future of Decentralized Prediction Markets**
 
-**Wina (WNA)** is a **decentralized prediction market token** built on the **Solana blockchain**. **Wina** empowers users to **predict**, **stake**, and **earn** rewards on a **secure**, **transparent**, and **exciting** platform for **sports betting**, **crypto predictions**, and **global event forecasting**.
+**WinArea (WINA)** is a **decentralized prediction market token** built on the **Solana blockchain**. **WinArea** empowers users to **predict**, **stake**, and **earn** rewards on a **secure**, **transparent**, and **exciting** platform for **sports betting**, **crypto predictions**, and **global event forecasting**.
 
-Wina leverages **trusted oracles**, **smart contracts**, and **blockchain technology** to create a fair, decentralized ecosystem where everyone can participate in the prediction market. Join us and be part of the revolution!
+WinArea leverages **trusted oracles**, **smart contracts**, and **blockchain technology** to create a fair, decentralized ecosystem where everyone can participate in the prediction market. Join us and be part of the revolution!
 
-[Visit our website](https://wina.is)
+[Visit our website](https://WinArea.is)
 
 ---
 
 ## **Table of Contents**
 
-- [🚀 About Wina](#about-wina)
+- [🚀 About WinArea](#about-WinArea)
 - [🔥 Key Features](#key-features)
 - [💡 Tokenomics](#tokenomics)
 - [🔗 Oracle Integration & Smart Contracts](#oracle-integration-smart-contracts)
@@ -23,11 +23,11 @@ Wina leverages **trusted oracles**, **smart contracts**, and **blockchain techno
 
 ---
 
-## 🚀 About Wina
+## 🚀 About WinArea
 
-**Wina (WNA)** is a **decentralized utility token** powering the **Wina prediction market platform**, which allows users to **bet on sports**, **forecast crypto prices**, and predict **global events**. **Wina** enables **staking**, **participating in governance**, and earning **rewards** for **market prediction** accuracy. 
+**WinArea (WINA)** is a **decentralized utility token** powering the **WinArea prediction market platform**, which allows users to **bet on sports**, **forecast crypto prices**, and predict **global events**. **WinArea** enables **staking**, **participating in governance**, and earning **rewards** for **market prediction** accuracy. 
 
-Built on **Solana**, **Wina** offers fast, secure, and low-cost transactions, ensuring that users can interact with the platform efficiently. With **trusted oracles** and **smart contracts**, **Wina** guarantees **accuracy** and **fairness** in all predictions.
+Built on **Solana**, **WinArea** offers fast, secure, and low-cost transactions, ensuring that users can interact with the platform efficiently. With **trusted oracles** and **smart contracts**, **WinArea** guarantees **accuracy** and **fairness** in all predictions.
 
 ---
 
@@ -36,17 +36,17 @@ Built on **Solana**, **Wina** offers fast, secure, and low-cost transactions, en
 ### **🌍 Prediction Markets**  
 - **Sports Events**: Predict outcomes of **football**, **basketball**, **eSports**, and more.
 - **Crypto Predictions**: Forecast the future of **Bitcoin**, **Ethereum**, and other cryptocurrencies.
-- **Global Events**: **Wina** allows users to predict the outcomes of important **world events**, such as elections or public policy changes.
+- **Global Events**: **WinArea** allows users to predict the outcomes of important **world events**, such as elections or public policy changes.
 
 ### **💸 Staking & Governance**
-- **Staking Rewards**: Stake **WNA tokens** to earn **rewards** based on your participation in the prediction markets.
-- **Governance**: **WNA holders** can participate in **platform decisions** by voting on new features, market listings, and more.
+- **Staking Rewards**: Stake **WINA tokens** to earn **rewards** based on your participation in the prediction markets.
+- **Governance**: **WINA holders** can participate in **platform decisions** by voting on new features, market listings, and more.
 
 ### **🔗 Oracle Integration**
 - **Chainlink** and **Switchboard** provide **trusted data feeds** that ensure **accurate** and **tamper-proof predictions** on real-world outcomes.
 
 ### **💱 Liquidity Pools**
-- Users can **add liquidity** to **Wina pools** and earn **transaction fees** while ensuring the platform remains active and efficient.
+- Users can **add liquidity** to **WinArea pools** and earn **transaction fees** while ensuring the platform remains active and efficient.
 
 ### **🔒 Security & Fairness**
 - **Solana** blockchain guarantees **high-speed transactions** with low costs.
@@ -54,16 +54,16 @@ Built on **Solana**, **Wina** offers fast, secure, and low-cost transactions, en
 
 ---
 
-# WINA Tokenomics
+# WinArea Tokenomics
 
 - **Token Name:** Win Area
-- **Symbol:** WINA
+- **Symbol:** WinArea
 - **Decimals:** 6
-- **Total Supply:** 1,000,000,000 WINA
+- **Total Supply:** 1,000,000,000 WinArea
 
 ## Distribution
 
-| Category | % | Tokens (WINA) | Lock / Vesting | Cliff | Release | Duration |
+| Category | % | Tokens (WinArea) | Lock / Vesting | Cliff | Release | Duration |
 |---|---:|---:|---|---:|---|---:|
 | Community Rewards | 25% | 250,000,000 | Streamflow to Rewards Vault | 0 | Weekly | 24 months |
 | Liquidity Pools (LP) | 20% | 200,000,000 | Used for Meteora DLMM; LP locked | 0 | N/A | 6–12 months |
@@ -79,12 +79,12 @@ Built on **Solana**, **Wina** offers fast, secure, and low-cost transactions, en
 
 Assuming 24 months ≈ 104 weeks:
 
-- Developer Fund: 50,000,000 / 104 ≈ 480,769.23 WINA per week
-- Community Rewards: 250,000,000 / 104 ≈ 2,403,846.15 WINA per week
-- Staking Rewards: 150,000,000 / 104 ≈ 1,442,307.69 WINA per week
-- Team & Advisors: 100,000,000 / 24 = 4,166,666.67 WINA per month (after 6-month cliff)
-- Treasury / DAO: 100,000,000 / 24 = 4,166,666.67 WINA per month (after 3-month cliff)
-- Early Investors: 100,000,000 / 12 = 8,333,333.33 WINA per month (after 3-month cliff)
+- Developer Fund: 50,000,000 / 104 ≈ 480,769.23 WinArea per week
+- Community Rewards: 250,000,000 / 104 ≈ 2,403,846.15 WinArea per week
+- Staking Rewards: 150,000,000 / 104 ≈ 1,442,307.69 WinArea per week
+- Team & Advisors: 100,000,000 / 24 = 4,166,666.67 WinArea per month (after 6-month cliff)
+- Treasury / DAO: 100,000,000 / 24 = 4,166,666.67 WinArea per month (after 3-month cliff)
+- Early Investors: 100,000,000 / 12 = 8,333,333.33 WinArea per month (after 3-month cliff)
 
 ## Transparency
 
@@ -105,7 +105,7 @@ All vesting/airdrop schedules are intended to be executed on Streamflow and publ
 
 ## ⚙️ Installation Guide
 
-To interact with **Wina (WNA)** token and **prediction market smart contracts** on **Solana**, follow the installation guide below.
+To interact with **WinArea (WINA)** token and **prediction market smart contracts** on **Solana**, follow the installation guide below.
 
 ### **Requirements**:
 - **Solana CLI**: Install [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools).
@@ -115,12 +115,12 @@ To interact with **Wina (WNA)** token and **prediction market smart contracts** 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/wina.git
+   git clone https://github.com/yourusername/WinArea.git
    ```
 
 2. **Navigate into the Project Directory**:
    ```bash
-   cd wina
+   cd WinArea
    ```
 
 3. **Install Dependencies**:
@@ -144,16 +144,16 @@ To interact with **Wina (WNA)** token and **prediction market smart contracts** 
 
 ## 💪 Usage & Staking
 
-### **Staking WNA Tokens**:
-1. **Stake your WNA tokens** to earn rewards and participate in **platform governance**.
+### **Staking WINA Tokens**:
+1. **Stake your WINA tokens** to earn rewards and participate in **platform governance**.
 2. You can stake tokens via **Streamflow** or use **Solana CLI** for staking.
 
 ### **Prediction Markets**:
 1. Predict **sports outcomes**, **cryptocurrency price movements**, and **global events**.
-2. Place your **WNA tokens** on the predictions and stand a chance to win rewards based on accurate forecasts.
+2. Place your **WINA tokens** on the predictions and stand a chance to win rewards based on accurate forecasts.
 
 ### **Liquidity Pools**:
-1. Add liquidity to the **Wina pools**.
+1. Add liquidity to the **WinArea pools**.
 2. Earn **transaction fees** and participate in the **market-making process**.
 
 ---
@@ -182,7 +182,7 @@ To interact with **Wina (WNA)** token and **prediction market smart contracts** 
 ## 📈 Roadmap
 
 ### **🚀 Launched - Now Live!**
-- **Wina (WNA)** token is **LIVE** and **deployed** on **Solana**.
+- **WinArea (WINA)** token is **LIVE** and **deployed** on **Solana**.
 - **Prediction markets** for **sports**, **cryptocurrency**, and **global events** are now accessible.
 
 ### **Next Steps**:
