@@ -113,15 +113,5 @@ All vesting allocations are enforced on-chain using **Streamflow**. No vested to
 
 ---
 
-## 🌐 Socials
-
-- 💬 **Telegram:** https://t.me/win_area  
-- 𝕏 **X (Twitter):** https://x.com/winatoken  
-- 💻 **GitHub:** https://github.com/winarea/wina  
-- 🔎 **Solscan:** https://solscan.io/token/5Ff8mF1QT2KJYjbCMgPFECyoo41LcngRPuYFPPAFHZrE  
-- 🌍 **Website:** https://winarea.io
-
----
-
 ## 📌 Disclaimer
 WINA is a utility token for platform usage and governance. Prediction markets involve risk. Users should do their own research and understand how the platform works before participating. :contentReference[oaicite:12]{index=12}
