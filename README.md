@@ -1,13 +1,13 @@
 # WinArea (WINA)
 ### Decentralized Prediction Markets on Solana
 
-**WinArea (WINA)** is a utility + governance token powering the **WinArea decentralized prediction market ecosystem** on **Solana** — enabling users to **predict outcomes**, **stake**, and **earn rewards** across sports, crypto markets, and real-world events. :contentReference[oaicite:0]{index=0}
+**WinArea (WINA)** is a utility + governance token powering the **WinArea decentralized prediction market ecosystem** on **Solana** — enabling users to **predict outcomes**, **stake**, and **earn rewards** across sports, crypto markets, and real-world events.
 
 ---
 
 ## 🔗 Official Links
 
-- **Website:** https://winarea.io :contentReference[oaicite:1]{index=1}  
+- **Website:** https://winarea.io
 - **Telegram:** https://t.me/win_area  
 - **X (Twitter):** https://x.com/winatoken  
 - **GitHub:** https://github.com/winarea/wina  
@@ -22,7 +22,7 @@ WinArea is designed to make prediction markets more transparent and accessible b
 - **Prediction Market Participation** (staking on outcomes)
 - **Rewards & Incentives** (user growth and platform usage alignment)
 - **Governance** (community influence on parameters and upgrades)
-- **Liquidity Support** (market depth and price discovery) :contentReference[oaicite:2]{index=2}
+- **Liquidity Support** (market depth and price discovery)
 
 ---
 
@@ -39,7 +39,7 @@ WinArea is designed to make prediction markets more transparent and accessible b
 | Mint Authority | Revoked after deployment |
 | Freeze Authority | Disabled |
 | Vesting Provider | Streamflow |
-| Primary Use | Prediction markets, staking, governance | :contentReference[oaicite:3]{index=3}
+| Primary Use | Prediction markets, staking, governance |
 
 ---
 
@@ -48,26 +48,26 @@ WinArea is designed to make prediction markets more transparent and accessible b
 ### 🎯 Prediction Markets
 - Stake WINA on sports, crypto price moves, and real-world events
 - Outcomes are resolved using trusted oracle data
-- Rewards distributed proportionally to correct predictions :contentReference[oaicite:4]{index=4}
+- Rewards distributed proportionally to correct predictions
 
 ### 🧊 Staking & Incentives
 - Long-term staking to support protocol stability
 - Reward emissions aligned with platform usage
-- Encourages liquidity and honest participation :contentReference[oaicite:5]{index=5}
+- Encourages liquidity and honest participation
 
 ### 🗳️ Governance
 - WINA holders may participate in governance decisions
-- Influence market categories, reward parameters, and future upgrades :contentReference[oaicite:6]{index=6}
+- Influence market categories, reward parameters, and future upgrades
 
 ### 💧 Liquidity
 - Supports DEX liquidity provisioning
-- Improves market depth and price discovery :contentReference[oaicite:7]{index=7}
+- Improves market depth and price discovery
 
 ---
 
 ## 📊 Token Distribution & Vesting — Solana
 
-All vesting allocations are enforced on-chain using **Streamflow**. No vested tokens can be manually unlocked or bypass vesting contracts. :contentReference[oaicite:8]{index=8}
+All vesting allocations are enforced on-chain using **Streamflow**. No vested tokens can be manually unlocked or bypass vesting contracts.
 
 > ✅ **IMPORTANT:** The allocation table below is included **without any changes**.
 
@@ -94,7 +94,7 @@ All vesting allocations are enforced on-chain using **Streamflow**. No vested to
 - No multisig or manual override
 - Linear unlock schedules only
 - Publicly verifiable on-chain
-- Designed to reduce early sell pressure :contentReference[oaicite:9]{index=9}
+- Designed to reduce early sell pressure
 
 ---
 
@@ -104,14 +104,14 @@ All vesting allocations are enforced on-chain using **Streamflow**. No vested to
 - Standard SPL token implementation
 - **Mint authority revoked**
 - **Freeze authority disabled**
-- No blacklist or transfer restrictions :contentReference[oaicite:10]{index=10}
+- No blacklist or transfer restrictions
 
 ### Transparency Commitment
 - No hidden allocations
 - No inflation beyond declared supply
-- Public wallets disclosed :contentReference[oaicite:11]{index=11}
+- Public wallets disclosed
 
 ---
 
 ## 📌 Disclaimer
-WINA is a utility token for platform usage and governance. Prediction markets involve risk. Users should do their own research and understand how the platform works before participating. :contentReference[oaicite:12]{index=12}
+WINA is a utility token for platform usage and governance. Prediction markets involve risk. Users should do their own research and understand how the platform works before participating.
